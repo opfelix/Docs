@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Opfelix",
-  head: [['link', { rel: 'icon', href: '/icon/小猫抓.ico' }]],
+  head: [['link', { rel: 'icon', href: '../../icon/小猫抓.ico' }]],
   description: "Opfelix",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
